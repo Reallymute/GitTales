@@ -1,6 +1,2 @@
 Chapter 2
-<<<<<<< Updated upstream
-In the end, the table was not flat. 
-=======
-In the beginning, the table was not flat. 
->>>>>>> Stashed changes
+In the beginning, the table was not flat. Happiness, Goerge decided, was really a rare thing.
