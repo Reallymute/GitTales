@@ -1,2 +1,6 @@
 Chapter 2
+<<<<<<< Updated upstream
 In the end, the table was not flat. 
+=======
+In the beginning, the table was not flat. 
+>>>>>>> Stashed changes
