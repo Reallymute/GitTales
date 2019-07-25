@@ -1,2 +1,5 @@
 Chapter 1
+<<<<<<< HEAD
 On the last day, George was struck by lightning.
+=======
+>>>>>>> 96bbeb5... Update Chapter1.txt
