@@ -1,6 +1,3 @@
 Chapter 2
-<<<<<<< HEAD
 In the beginning, the table was not flat. Happiness, Goerge decided, was really a rare thing.
-=======
-In the beginning, the table was not flat. Happiness, George decided, was really a rare thing.
->>>>>>> Chapter1Title
+
